@@ -1,7 +1,8 @@
 import React from "react";
+import { Wrapper } from "./Part2_Style";
 
 const Part2 = () => {
-  return <div></div>;
+  return <Wrapper></Wrapper>;
 };
 
 export default Part2;
