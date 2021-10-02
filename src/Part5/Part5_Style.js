@@ -57,7 +57,7 @@ export const Text = styled.div`
     text-transform: uppercase;
     border-bottom: 1px solid transparent;
     color: #b2b2b2;
-    width: 280px;
+    width: 100px;
     margin: 0px;
     padding-top: 20px;
     :hover {
